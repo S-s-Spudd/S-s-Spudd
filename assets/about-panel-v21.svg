@@ -1,0 +1,87 @@
+<svg width="940" height="394" viewBox="0 0 940 394" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="40" y1="52" x2="900" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101720"/>
+      <stop offset="0.62" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#150C12"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="74" y1="322" x2="866" y2="322" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2725B"/>
+      <stop offset="0.58" stop-color="#950015"/>
+      <stop offset="1" stop-color="#E2725B"/>
+    </linearGradient>
+    <style>
+      .title {
+        font: 700 29px Georgia, 'Times New Roman', serif;
+        fill: #F9FAFB;
+      }
+      .body {
+        font: 700 13.2px 'Segoe UI', Verdana, Arial, sans-serif;
+        fill: #F9FAFB;
+      }
+      .focusLabel {
+        font: 800 12px Consolas, 'Courier New', monospace;
+        letter-spacing: 0.8px;
+        fill: #FF7A62;
+      }
+      .label {
+        font: 800 10.5px Consolas, 'Courier New', monospace;
+        letter-spacing: 0.6px;
+        fill: #F9FAFB;
+      }
+      .value {
+        font: 800 10px 'Segoe UI', Verdana, Arial, sans-serif;
+        fill: #F9FAFB;
+      }
+      .accentValue {
+        font: 800 9.8px 'Segoe UI', Verdana, Arial, sans-serif;
+        fill: #FF7A62;
+      }
+      .pillText {
+        font: 800 10px Consolas, 'Courier New', monospace;
+        fill: #F9FAFB;
+      }
+    </style>
+  </defs>
+
+  <rect width="940" height="394" fill="#0D1117"/>
+  <circle cx="836" cy="70" r="39" fill="#E2725B" opacity="0.12"/>
+  <circle cx="850" cy="306" r="84" fill="#950015" opacity="0.15"/>
+  <circle cx="94" cy="310" r="64" fill="#950015" opacity="0.08"/>
+
+  <rect x="42" y="42" width="856" height="300" rx="22" fill="url(#panel)" stroke="#2D3744"/>
+  <rect x="62" y="62" width="816" height="258" rx="20" stroke="#263340"/>
+
+  <rect x="78" y="78" width="515" height="232" rx="14" fill="#111927" stroke="#2D3A4A"/>
+  <text x="104" y="120" class="title">Hobbyist developer</text>
+  <text x="104" y="154" class="title">moving toward IT.</text>
+  <line x1="104" y1="174" x2="548" y2="174" stroke="#2D3744"/>
+  <text x="104" y="198" class="body">I build practical Discord and web tooling while sharpening</text>
+  <text x="104" y="218" class="body">clear interfaces, maintainable TypeScript, sensible</text>
+  <text x="104" y="238" class="body">deployment, and polished project structure.</text>
+  <text x="104" y="260" class="focusLabel">CURRENT FOCUS</text>
+  <text x="104" y="280" class="body">Spud Symphony tools, Discord automation,</text>
+  <text x="104" y="298" class="body">dashboards, and web polish.</text>
+
+  <rect x="616" y="76" width="258" height="234" rx="14" fill="#101720" stroke="#2D3A4A"/>
+
+  <rect x="632" y="94" width="226" height="38" rx="8" fill="#0D1117" stroke="#344151"/>
+  <text x="648" y="117" class="label">BUILDING</text>
+  <text x="740" y="117" class="accentValue">spud-symphony.com</text>
+
+  <rect x="632" y="144" width="226" height="38" rx="8" fill="#0D1117" stroke="#344151"/>
+  <text x="648" y="167" class="label">ROLE</text>
+  <text x="740" y="167" class="value">Hobbyist developer</text>
+
+  <rect x="632" y="194" width="226" height="54" rx="8" fill="#0D1117" stroke="#344151"/>
+  <text x="648" y="217" class="label">STACK</text>
+  <text x="740" y="213" class="value">HTML CSS JS TS</text>
+  <text x="740" y="230" class="value">React Tailwind C#</text>
+
+  <rect x="632" y="260" width="226" height="38" rx="8" fill="#1B0D14" stroke="#7C2A34"/>
+  <text x="648" y="283" class="label">DISCORD</text>
+  <rect x="740" y="269" width="70" height="20" rx="8" fill="#223041"/>
+  <text x="753" y="283" class="pillText">ssspudd</text>
+
+  <rect x="74" y="357" width="792" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
