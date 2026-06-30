@@ -1,0 +1,68 @@
+<svg width="940" height="410" viewBox="0 0 940 410" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="outer" x1="58" y1="44" x2="882" y2="344" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101720"/>
+      <stop offset="0.55" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#140C12"/>
+    </linearGradient>
+    <linearGradient id="card" x1="80" y1="95" x2="860" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111927"/>
+      <stop offset="0.6" stop-color="#111423"/>
+      <stop offset="1" stop-color="#160D15"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="92" y1="342" x2="848" y2="342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2725B"/>
+      <stop offset="0.55" stop-color="#950015"/>
+      <stop offset="1" stop-color="#E2725B"/>
+    </linearGradient>
+    <clipPath id="siteClip">
+      <rect x="86" y="88" width="368" height="218" rx="16"/>
+    </clipPath>
+    <clipPath id="botClip">
+      <rect x="486" y="88" width="368" height="218" rx="16"/>
+    </clipPath>
+    <style>
+      .heading { font: 800 22px Arial, Helvetica, sans-serif; fill: #F9FAFB; }
+      .copy { font: 700 13px Arial, Helvetica, sans-serif; fill: #F9FAFB; }
+      .link { font: 800 12px Arial, Helvetica, sans-serif; fill: #FF7A62; text-decoration: underline; }
+    </style>
+  </defs>
+
+  <rect width="940" height="410" fill="#0D1117"/>
+  <circle cx="826" cy="74" r="38" fill="#E2725B" opacity="0.12"/>
+  <circle cx="812" cy="324" r="76" fill="#950015" opacity="0.14"/>
+  <circle cx="92" cy="318" r="64" fill="#950015" opacity="0.08"/>
+
+  <rect x="58" y="44" width="824" height="316" rx="22" fill="url(#outer)" stroke="#2D3744"/>
+  <line x1="92" y1="72" x2="848" y2="72" stroke="#263340"/>
+
+  <g clip-path="url(#siteClip)">
+    <rect x="86" y="88" width="368" height="218" rx="16" fill="url(#card)" stroke="#324054"/>
+    <rect x="114" y="116" width="44" height="44" rx="10" fill="#223041"/>
+    <circle cx="136" cy="138" r="12" stroke="#E2725B" stroke-width="2"/>
+    <path d="M124 138H148M136 126C141 132 141 144 136 150M136 126C131 132 131 144 136 150" stroke="#E2725B" stroke-width="2" stroke-linecap="round"/>
+
+    <text x="178" y="135" class="heading">Spud Symphony Website</text>
+    <text x="178" y="172" class="copy">Public web surface for Spud Symphony.</text>
+    <text x="178" y="193" class="copy">Makes server tools easier to understand,</text>
+    <text x="178" y="214" class="copy">configure, and trust.</text>
+    <text x="178" y="254" class="link">Visit the site</text>
+  </g>
+
+  <g clip-path="url(#botClip)">
+    <rect x="486" y="88" width="368" height="218" rx="16" fill="url(#card)" stroke="#324054"/>
+    <rect x="514" y="116" width="44" height="44" rx="10" fill="#223041"/>
+    <circle cx="536" cy="138" r="15" fill="#E2725B"/>
+    <circle cx="530" cy="138" r="2.5" fill="#0D1117"/>
+    <circle cx="542" cy="138" r="2.5" fill="#0D1117"/>
+    <path d="M527 150C532 153 540 153 545 150" stroke="#0D1117" stroke-width="2" stroke-linecap="round"/>
+
+    <text x="578" y="135" class="heading">Spud Symphony Bot</text>
+    <text x="578" y="172" class="copy">Discord automation and community tooling.</text>
+    <text x="578" y="193" class="copy">Built for boring reliability with enough</text>
+    <text x="578" y="214" class="copy">polish for server owners to use.</text>
+    <text x="578" y="254" class="link">Join the Discord</text>
+  </g>
+
+  <rect x="92" y="342" width="756" height="2" rx="1" fill="url(#rule)"/>
+</svg>
