@@ -20,7 +20,7 @@
 </p>
 
 
-<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel.svg?v=6337303" />
+<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel.webp?v=spud-bot-icon" />
 
 
 <h3 align="center">Contact Us</h3>
