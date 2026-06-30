@@ -1,7 +1,7 @@
 <img width="100%" alt="Animated 3D developer workspace model" src="./assets/profile-model.svg" />
 
-<p align="left">
-  <img alt="animated profile line" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2600&pause=900&color=E2725B&vCenter=true&width=760&height=42&lines=Building+Spud+Symphony+across+Discord+and+the+web.;Learning+the+craft+one+real+project+at+a+time.;Clean+interfaces.+Readable+systems.+Useful+tools." />
+<p align="center">
+  <img alt="animated profile line" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=E2725B&center=true&vCenter=true&width=900&height=46&lines=Building+Spud+Symphony+across+Discord+and+the+web.;Learning+IT+foundations+through+real+projects.;React%2C+TypeScript%2C+Tailwind+CSS+and+C%23.;Discord+automation+with+clean+web+dashboards.;Turning+hobby+projects+into+industry-ready+habits.;Practical+tools.+Clear+UI.+Reliable+behavior." />
 </p>
 
 <img width="100%" alt="Profile introduction and facts" src="./assets/about-panel-v7.svg" />
@@ -14,7 +14,7 @@
   <img alt="HTML CSS JavaScript TypeScript React Tailwind CSS C Sharp Git GitHub VS Code Visual Studio" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,cs,git,github,vscode,visualstudio&theme=dark&perline=11" />
 </p>
 
-<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel-v7.svg" />
+<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel-v12.svg" />
 
 <h3 align="center">Contact Us</h3>
 
