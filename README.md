@@ -8,7 +8,7 @@
 
 <img width="100%" alt="Website Discord and X links" src="./assets/social-panel-v7.svg" />
 
-<img width="100%" alt="Workbench and focus areas" src="./assets/workbench-values-v7.svg" />
+<img width="100%" alt="Workbench and focus areas" src="./assets/workbench-values-v8.svg" />
 
 <h3>Main skills</h3>
 
