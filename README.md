@@ -1,10 +1,10 @@
 <img width="100%" alt="Animated 3D developer workspace model" src="./assets/profile-model.svg" />
 
 <p align="center">
-  <img alt="animated profile line" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&color=E2725B&center=true&vCenter=true&width=900&height=46&lines=Building+Spud+Symphony+across+Discord+and+the+web.;Learning+IT+foundations+through+real+projects.;React%2C+TypeScript%2C+Tailwind+CSS+and+C%23.;Discord+automation+with+clean+web+dashboards.;Turning+hobby+projects+into+industry-ready+habits.;Practical+tools.+Clear+UI.+Reliable+behavior." />
+  <img alt="animated profile line" src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=18&duration=2600&pause=900&color=E2725B&center=true&vCenter=true&width=900&height=46&lines=Building+Spud+Symphony+across+Discord+and+the+web.;Learning+IT+foundations+through+real+projects.;React%2C+TypeScript%2C+Tailwind+CSS+and+C%23.;Discord+automation+with+clean+web+dashboards.;Turning+hobby+projects+into+industry-ready+habits.;Practical+tools.+Clear+UI.+Reliable+behavior." />
 </p>
 
-<img width="100%" alt="Profile introduction and facts" src="./assets/about-panel-v16.svg" />
+<img width="100%" alt="Profile introduction and facts" src="./assets/about-panel-v17.svg" />
 
 <img width="100%" alt="Workbench and focus areas" src="./assets/workbench-values-v11.svg" />
 
@@ -20,7 +20,7 @@
 
 <img width="100%" alt="Website Discord and X links" src="./assets/social-panel-v7.svg" />
 
-<h3>Signals</h3>
+<h3 align="center">Signals</h3>
 
 <p>
   <img alt="S-s-Spudd activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=S-s-Spudd&bg_color=0D1117&color=D1D5DB&line=950015&point=E2725B&area=true&area_color=950015&title_color=F9FAFB&hide_border=true&custom_title=Recent%20activity">
