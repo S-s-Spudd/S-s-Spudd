@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="340" viewBox="0 0 940 340" role="img" aria-labelledby="title desc">
+  <title id="title">S-s-Spudd animated 3D developer workspace</title>
+  <desc id="desc">An animated isometric developer console with terracotta and scarlet lighting.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.5" stop-color="#151018"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E2725B"/>
+      <stop offset="1" stop-color="#950015"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F9FAFB" stop-opacity="0.18"/>
+      <stop offset="0.45" stop-color="#E2725B" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#950015" stop-opacity="0.42"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="60%">
+      <stop offset="0" stop-color="#E2725B" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#950015" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blurGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.89  0 1 0 0 0.45  0 0 1 0 0.36  0 0 0 0.65 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softShadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="9" flood-color="#E2725B" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+
+  <rect width="940" height="340" rx="30" fill="url(#bg)"/>
+  <ellipse cx="612" cy="174" rx="255" ry="135" fill="url(#glow)" opacity="0.9">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g opacity="0.42" stroke="#F9FAFB" stroke-opacity="0.18" stroke-width="1">
+    <path d="M520 55h286M492 92h348M462 129h408M440 166h442M426 203h468"/>
+    <path d="M548 38l-112 238M628 38L500 294M708 38L584 302M788 42L672 288"/>
+  </g>
+
+  <g transform="translate(84 78)">
+    <text x="0" y="42" fill="#F9FAFB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="800">S-s-Spudd</text>
+    <text x="2" y="78" fill="#D1D5DB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Discord automation / Web systems / IT path</text>
+    <rect x="2" y="108" width="292" height="42" rx="13" fill="#111827" stroke="#E2725B" stroke-opacity="0.34"/>
+    <circle cx="28" cy="129" r="5" fill="#950015"/>
+    <circle cx="47" cy="129" r="5" fill="#E2725B"/>
+    <circle cx="66" cy="129" r="5" fill="#F9FAFB" opacity="0.78"/>
+    <text x="88" y="135" fill="#F9FAFB" font-family="Consolas,Menlo,monospace" font-size="14">ship useful tools</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <g id="model" transform="translate(610 168)">
+      <animateTransform attributeName="transform" type="translate" values="610 160;610 176;610 160" dur="5.5s" repeatCount="indefinite"/>
+
+      <g opacity="0.92">
+        <ellipse cx="0" cy="22" rx="158" ry="42" fill="none" stroke="#E2725B" stroke-width="2" stroke-opacity="0.65" transform="rotate(-12)">
+          <animateTransform attributeName="transform" type="rotate" from="-12 0 22" to="348 0 22" dur="9s" repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="0" cy="22" rx="128" ry="32" fill="none" stroke="#950015" stroke-width="2" stroke-opacity="0.8" transform="rotate(18)">
+          <animateTransform attributeName="transform" type="rotate" from="18 0 22" to="-342 0 22" dur="11s" repeatCount="indefinite"/>
+        </ellipse>
+      </g>
+
+      <g>
+        <polygon points="0,-112 132,-42 0,30 -132,-42" fill="url(#glass)" stroke="#E2725B" stroke-width="2"/>
+        <polygon points="-132,-42 0,30 0,136 -132,58" fill="#19141A" stroke="#950015" stroke-width="2"/>
+        <polygon points="132,-42 0,30 0,136 132,58" fill="#120F15" stroke="#E2725B" stroke-width="2"/>
+        <polygon points="0,30 132,-42 132,58 0,136" fill="#241217" opacity="0.52"/>
+        <polygon points="-96,-42 0,-93 96,-42 0,10" fill="none" stroke="#F9FAFB" stroke-opacity="0.24" stroke-width="1.5"/>
+        <polygon points="-70,62 0,22 70,62 0,104" fill="url(#hot)" opacity="0.82" filter="url(#blurGlow)">
+          <animate attributeName="opacity" values="0.48;0.92;0.48" dur="3.4s" repeatCount="indefinite"/>
+        </polygon>
+        <path d="M-82 28h82v22h-82zM18 42h64v20H18zM-78 76h45v16h-45zM42 82h42v16H42z" fill="#F9FAFB" opacity="0.12"/>
+      </g>
+
+      <g stroke="#E2725B" stroke-width="2" fill="none" opacity="0.8">
+        <path d="M-162 42l-58 35 58 35 58-35z"/>
+        <path d="M162 20l54 32-54 32-54-32z"/>
+        <animate attributeName="opacity" values="0.42;0.9;0.42" dur="4s" repeatCount="indefinite"/>
+      </g>
+      <g fill="#E2725B">
+        <circle cx="-220" cy="77" r="5"><animate attributeName="r" values="4;8;4" dur="3s" repeatCount="indefinite"/></circle>
+        <circle cx="216" cy="52" r="5"><animate attributeName="r" values="7;4;7" dur="3.5s" repeatCount="indefinite"/></circle>
+        <circle cx="0" cy="-93" r="4"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" repeatCount="indefinite"/></circle>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(592 298)" opacity="0.54">
+    <ellipse cx="0" cy="0" rx="214" ry="18" fill="#000000"/>
+    <ellipse cx="0" cy="0" rx="148" ry="9" fill="#950015" opacity="0.28">
+      <animate attributeName="rx" values="118;168;118" dur="5.5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+</svg>
