@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="230" viewBox="0 0 940 230" role="img" aria-labelledby="title desc">
+<title id="title">Spud Symphony project cards</title><desc id="desc">Two custom cards for the website and bot projects.</desc>
+<defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#151018"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#950015"/><stop offset="1" stop-color="#E2725B"/></linearGradient></defs>
+<rect width="940" height="230" rx="28" fill="#0D1117"/>
+<rect x="22" y="24" width="428" height="178" rx="22" fill="url(#card)" stroke="#30363D"/>
+<rect x="490" y="24" width="428" height="178" rx="22" fill="url(#card)" stroke="#30363D"/>
+<rect x="46" y="50" width="48" height="48" rx="14" fill="#1F2937"/><path d="M58 74h24M70 62v24" stroke="#E2725B" stroke-width="4" stroke-linecap="round"/>
+<rect x="514" y="50" width="48" height="48" rx="14" fill="#1F2937"/><path d="M528 75c10-14 26-14 36 0M531 86c7-8 23-8 30 0" stroke="#E2725B" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="112" y="68" fill="#F9FAFB" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800">Spud Symphony Website</text>
+<text x="112" y="104" fill="#F9FAFB" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">A public-facing web surface for the Spud Symphony ecosystem.</text>
+<text x="112" y="128" fill="#F9FAFB" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">The work is about making server tools easier to understand,</text>
+<text x="112" y="152" fill="#F9FAFB" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">configure, and trust.</text>
+<text x="112" y="184" fill="#E2725B" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="800">Visit the site</text><path d="M112 190h78" stroke="#E2725B" stroke-width="1"/>
+<text x="580" y="68" fill="#F9FAFB" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800">Spud Symphony Bot</text>
+<text x="580" y="104" fill="#F9FAFB" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Discord-side automation and community tooling. The goal is</text>
+<text x="580" y="128" fill="#F9FAFB" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">boring reliability with enough polish that server owners can</text>
+<text x="580" y="152" fill="#F9FAFB" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">actually use it.</text>
+<text x="580" y="184" fill="#E2725B" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="800">Join the Discord</text><path d="M580 190h100" stroke="#E2725B" stroke-width="1"/>
+<path d="M22 202h896" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+</svg>
