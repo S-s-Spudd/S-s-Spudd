@@ -1,4 +1,4 @@
-<img width="100%" alt="S-s-Spudd profile header" src="https://capsule-render.vercel.app/api?type=cylinder&height=260&section=header&color=0:0D1117,36:950015,68:E2725B,100:0D1117&text=S-s-Spudd&fontColor=F9FAFB&fontSize=58&fontAlign=29&fontAlignY=43&desc=Discord%20bot%20and%20web%20systems%20for%20real%20communities&descAlign=31&descAlignY=62&animation=twinkling&stroke=E2725B&strokeWidth=1" />
+<img width="100%" alt="Animated 3D developer workspace model" src="./assets/profile-model.svg" />
 
 <p align="left">
   <img alt="animated profile line" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2600&pause=900&color=E2725B&vCenter=true&width=760&height=42&lines=Building+Spud+Symphony+across+Discord+and+the+web.;Learning+the+craft+one+real+project+at+a+time.;Clean+interfaces.+Readable+systems.+Useful+tools." />
@@ -53,16 +53,10 @@
   </tr>
 </table>
 
-<h3>Stack Surface</h3>
+<h3>Main skills</h3>
 
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=F9FAFB&labelColor=950015">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css&logoColor=F9FAFB&labelColor=E2725B">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F9FAFB&labelColor=950015">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=F9FAFB&labelColor=E2725B">
-  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=F9FAFB&labelColor=950015">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=F9FAFB&labelColor=E2725B">
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=F9FAFB&labelColor=950015">
+  <img alt="HTML CSS JavaScript TypeScript React Tailwind CSS C Sharp Git GitHub VS Code Visual Studio" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,cs,git,github,vscode,visualstudio&theme=dark&perline=11" />
 </p>
 
 <table width="100%">
@@ -81,11 +75,6 @@
 </table>
 
 <h3>Signals</h3>
-
-<p>
-  <img height="170" alt="S-s-Spudd GitHub stats" src="https://github-readme-stats.vercel.app/api?username=S-s-Spudd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F9FAFB&text_color=D1D5DB&icon_color=E2725B&ring_color=950015&rank_icon=github&custom_title=Public%20work">
-  <img height="170" alt="S-s-Spudd top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-s-Spudd&layout=compact&hide_border=true&bg_color=0D1117&title_color=F9FAFB&text_color=D1D5DB&custom_title=Languages">
-</p>
 
 <p>
   <img alt="S-s-Spudd activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=S-s-Spudd&bg_color=0D1117&color=D1D5DB&line=950015&point=E2725B&area=true&area_color=950015&title_color=F9FAFB&hide_border=true&custom_title=Recent%20activity">
