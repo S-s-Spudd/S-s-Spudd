@@ -19,7 +19,7 @@
 </table>
 
 <p align="left">
-  <a href="https://spud-symphony.com/"><img alt="Spud Symphony" src="https://img.shields.io/badge/Spud%20Symphony-live-E11D48?style=for-the-badge&labelColor=0D1117&logo=rocket&logoColor=F9FAFB"></a>
+  <a href="https://spud-symphony.com/"><img alt="Spud Symphony" src="https://img.shields.io/badge/Spud%20Symphony-live-E11D48?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=F9FAFB"></a>
   <a href="https://discord.gg/Y9pYRXsqae"><img alt="Discord server" src="https://img.shields.io/badge/Discord%20server-join-10B981?style=for-the-badge&labelColor=0D1117&logo=discord&logoColor=F9FAFB"></a>
   <a href="https://x.com/SsSpudds"><img alt="X profile" src="https://img.shields.io/badge/X-@SsSpudds-E11D48?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=F9FAFB"></a>
 </p>
@@ -31,11 +31,11 @@
     <td width="38%" valign="top">
       <h3>Workbench</h3>
       <pre><code>S-s-Spudd
-├─ shipping: Discord bot features
-├─ shaping: Spud Symphony website
-├─ practicing: frontend polish and TypeScript
-├─ learning: IT foundations and deployment
-└─ aim: turn hobby work into industry skill</code></pre>
+|-- shipping: Discord bot features
+|-- shaping: Spud Symphony website
+|-- practicing: frontend polish and TypeScript
+|-- learning: IT foundations and deployment
++-- aim: turn hobby work into industry skill</code></pre>
     </td>
     <td width="62%" valign="top">
       <h3>What I care about</h3>
