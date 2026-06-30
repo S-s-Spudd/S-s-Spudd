@@ -52,7 +52,7 @@
   <g clip-path="url(#botClip)">
     <rect x="480" y="88" width="386" height="218" rx="16" fill="url(#card)" stroke="#324054"/>
     <rect x="510" y="116" width="44" height="44" rx="10" fill="#223041"/>
-    <circle cx="532" cy="138" r="15" fill="#E2725B"/>
+    <circle cx="532" cy="138" r="15" fill="#5865F2"/>
     <circle cx="526" cy="138" r="2.5" fill="#0D1117"/>
     <circle cx="538" cy="138" r="2.5" fill="#0D1117"/>
     <path d="M523 150C528 153 536 153 541 150" stroke="#0D1117" stroke-width="2" stroke-linecap="round"/>
