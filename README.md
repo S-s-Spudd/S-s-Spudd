@@ -14,7 +14,7 @@
   <img alt="HTML CSS JavaScript TypeScript React Tailwind CSS C Sharp Git GitHub VS Code Visual Studio" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,cs,git,github,vscode,visualstudio&theme=dark&perline=11" />
 </p>
 
-<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel-v13.svg" />
+<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel-v14.svg" />
 
 <h3 align="center">Contact Us</h3>
 
