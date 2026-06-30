@@ -4,7 +4,7 @@
   <img alt="animated profile line" src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=18&duration=2600&pause=900&color=E2725B&center=true&vCenter=true&width=900&height=46&lines=Building+Spud+Symphony+across+Discord+and+the+web.;Learning+IT+foundations+through+real+projects.;React%2C+TypeScript%2C+Tailwind+CSS+and+C%23.;Discord+automation+with+clean+web+dashboards.;Turning+hobby+projects+into+industry-ready+habits.;Practical+tools.+Clear+UI.+Reliable+behavior." />
 </p>
 
-<img width="100%" alt="Profile introduction and facts" src="./assets/about-panel-v17.svg" />
+<img width="100%" alt="Profile introduction and facts" src="./assets/about-panel-v18.svg" />
 
 <img width="100%" alt="Workbench and focus areas" src="./assets/workbench-values-v11.svg" />
 
