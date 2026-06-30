@@ -1,4 +1,8 @@
-<img width="100%" alt="S-s-Spudd profile header" src="https://capsule-render.vercel.app/api?type=venom&height=265&section=header&color=0:0D1117,42:E11D48,100:10B981&text=S-s-Spudd&fontColor=F9FAFB&fontSize=58&fontAlign=28&fontAlignY=38&desc=Discord%20bot%20and%20web%20systems%20for%20real%20communities&descAlign=31&descAlignY=58&animation=fadeIn" />
+<img width="100%" alt="S-s-Spudd profile header" src="https://capsule-render.vercel.app/api?type=cylinder&height=260&section=header&color=0:0D1117,36:950015,68:E2725B,100:0D1117&text=S-s-Spudd&fontColor=F9FAFB&fontSize=58&fontAlign=29&fontAlignY=43&desc=Discord%20bot%20and%20web%20systems%20for%20real%20communities&descAlign=31&descAlignY=62&animation=twinkling&stroke=E2725B&strokeWidth=1" />
+
+<p align="left">
+  <img alt="animated profile line" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2600&pause=900&color=E2725B&vCenter=true&width=760&height=42&lines=Building+Spud+Symphony+across+Discord+and+the+web.;Learning+the+craft+one+real+project+at+a+time.;Clean+interfaces.+Readable+systems.+Useful+tools." />
+</p>
 
 <table width="100%">
   <tr>
@@ -19,12 +23,12 @@
 </table>
 
 <p align="left">
-  <a href="https://spud-symphony.com/"><img alt="Spud Symphony" src="https://img.shields.io/badge/Spud%20Symphony-live-E11D48?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=F9FAFB"></a>
-  <a href="https://discord.gg/Y9pYRXsqae"><img alt="Discord server" src="https://img.shields.io/badge/Discord%20server-join-10B981?style=for-the-badge&labelColor=0D1117&logo=discord&logoColor=F9FAFB"></a>
-  <a href="https://x.com/SsSpudds"><img alt="X profile" src="https://img.shields.io/badge/X-@SsSpudds-E11D48?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=F9FAFB"></a>
+  <a href="https://spud-symphony.com/"><img alt="Spud Symphony" src="https://img.shields.io/badge/Spud%20Symphony-live-E2725B?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=F9FAFB"></a>
+  <a href="https://discord.gg/Y9pYRXsqae"><img alt="Discord server" src="https://img.shields.io/badge/Discord%20server-join-950015?style=for-the-badge&labelColor=0D1117&logo=discord&logoColor=F9FAFB"></a>
+  <a href="https://x.com/SsSpudds"><img alt="X profile" src="https://img.shields.io/badge/X-@SsSpudds-E2725B?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=F9FAFB"></a>
 </p>
 
-<img width="100%" height="3" alt="gradient divider" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:10B981,50:E11D48,100:0D1117" />
+<img width="100%" height="4" alt="terracotta scarlet divider" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&color=0:950015,50:E2725B,100:0D1117" />
 
 <table width="100%">
   <tr>
@@ -52,13 +56,13 @@
 <h3>Stack Surface</h3>
 
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=F9FAFB&labelColor=E11D48">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css&logoColor=F9FAFB&labelColor=10B981">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F9FAFB&labelColor=E11D48">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=F9FAFB&labelColor=10B981">
-  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=F9FAFB&labelColor=E11D48">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=F9FAFB&labelColor=10B981">
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=F9FAFB&labelColor=E11D48">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=F9FAFB&labelColor=950015">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css&logoColor=F9FAFB&labelColor=E2725B">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F9FAFB&labelColor=950015">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=F9FAFB&labelColor=E2725B">
+  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=F9FAFB&labelColor=950015">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=F9FAFB&labelColor=E2725B">
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=F9FAFB&labelColor=950015">
 </p>
 
 <table width="100%">
@@ -79,12 +83,12 @@
 <h3>Signals</h3>
 
 <p>
-  <img height="170" alt="S-s-Spudd GitHub stats" src="https://github-readme-stats.vercel.app/api?username=S-s-Spudd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F9FAFB&text_color=D1D5DB&icon_color=10B981&ring_color=E11D48&rank_icon=github&custom_title=Public%20work">
+  <img height="170" alt="S-s-Spudd GitHub stats" src="https://github-readme-stats.vercel.app/api?username=S-s-Spudd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F9FAFB&text_color=D1D5DB&icon_color=E2725B&ring_color=950015&rank_icon=github&custom_title=Public%20work">
   <img height="170" alt="S-s-Spudd top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-s-Spudd&layout=compact&hide_border=true&bg_color=0D1117&title_color=F9FAFB&text_color=D1D5DB&custom_title=Languages">
 </p>
 
 <p>
-  <img alt="S-s-Spudd activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=S-s-Spudd&bg_color=0D1117&color=D1D5DB&line=E11D48&point=10B981&area=true&area_color=E11D48&title_color=F9FAFB&hide_border=true&custom_title=Recent%20activity">
+  <img alt="S-s-Spudd activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=S-s-Spudd&bg_color=0D1117&color=D1D5DB&line=950015&point=E2725B&area=true&area_color=950015&title_color=F9FAFB&hide_border=true&custom_title=Recent%20activity">
 </p>
 
 <h3>Contact</h3>
@@ -96,4 +100,4 @@
   <tr><td><strong>Website</strong></td><td><a href="https://spud-symphony.com/">spud-symphony.com</a></td></tr>
 </table>
 
-<img width="100%" alt="profile footer" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,55:E11D48,100:10B981" />
+<img width="100%" alt="profile footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,45:950015,100:E2725B&animation=twinkling" />
