@@ -6,10 +6,10 @@
 </p>
 
 
-<img width="100%" alt="Profile introduction and facts" src="./assets/about-panel-v21.svg" />
+<img width="100%" alt="Profile introduction and facts" src="./assets/about-panel.svg" />
 
 
-<img width="100%" alt="Workbench and focus areas" src="./assets/workbench-values-v11.svg" />
+<img width="100%" alt="Workbench and focus areas" src="./assets/workbench-values.svg" />
 
 
 <h3 align="center">Main skills</h3>
@@ -20,13 +20,13 @@
 </p>
 
 
-<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel-v14.svg" />
+<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel.svg" />
 
 
 <h3 align="center">Contact Us</h3>
 
 
-<img width="100%" alt="Website Discord and X links" src="./assets/social-panel-v7.svg" />
+<img width="100%" alt="Website Discord and X links" src="./assets/social-panel.svg" />
 
 
 <h3 align="center">Signals</h3>
