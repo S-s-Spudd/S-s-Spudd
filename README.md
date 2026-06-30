@@ -20,13 +20,13 @@
 </p>
 
 
-<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel.svg" />
+<img width="100%" alt="Spud Symphony website and bot projects" src="./assets/projects-panel.svg?v=6337303" />
 
 
 <h3 align="center">Contact Us</h3>
 
 
-<img width="100%" alt="Website Discord and X links" src="./assets/social-panel.svg" />
+<img width="100%" alt="Website Discord and X links" src="./assets/social-panel.svg?v=6337303" />
 
 
 <h3 align="center">Signals</h3>
