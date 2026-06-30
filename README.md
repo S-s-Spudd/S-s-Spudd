@@ -109,6 +109,3 @@
   <tr><td><strong>Website</strong></td><td><a href="https://spud-symphony.com/">spud-symphony.com</a></td></tr>
 </table>
 
-<br>
-
-<p><sub>Palette: charcoal, ivory, sage, brick, and stone. No blue, purple, or gold accents.</sub></p>
